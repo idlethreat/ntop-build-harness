@@ -11,7 +11,7 @@ Originally put together for Raspiban Jesse Lite, but builds and runs fine on bot
 * root permissions to install files in the /opt directory
 
 ## How To Use
-1. Download the latest script by running `git clone https://FIXME` on target system
+1. Download the latest script by running `git clone https://github.com/idlethreat/ntop-build-harness.git` on target system
 2. cd into the `ntop-build-harness` directory and run the build harness with `bash ntop-build-harness.sh`
 3. Sit around and wait for the install to finish
 
